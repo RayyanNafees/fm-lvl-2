@@ -11,7 +11,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -39,22 +38,10 @@ Users should be able to:
 - Semantic HTML5 markup
 
 ### What I learned
+I learnt how to make static pages in speed & separation of concern regarding different CSS files
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- I learnt the `margin-inline:auto` property in CSS to center block elements
+- I learnt the `margin-block:auto` property in CSS to center inline elements vertically
 
 ## Author
 
